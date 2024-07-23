@@ -1,0 +1,95 @@
+body{
+    margin: 10;
+    height: 0;
+    background-color: rgb(65, 109, 151);
+}
+.carrito{
+    margin-left: 30px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+   
+
+
+}
+.tex1{
+    margin-top: -10px;
+}
+.tex2{
+    margin-left: 95px;
+    margin-top: -70px;
+}
+.tex3{
+    margin-left: 175px;
+    margin-top: -35px;
+}
+.tex4{
+    margin-left: 265px;
+    margin-top: -70px;
+}
+
+.dat{
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+
+   
+
+
+}
+.te1{
+    margin-top: -10px;
+}
+.te2{
+    margin-left: 95px;
+    margin-top: -70px;
+}
+.te3{
+    margin-left: 175px;
+    margin-top: -35px;
+}
+.te4{
+    margin-left: 265px;
+    margin-top: -70px;
+}
+
+.date{
+    margin-left: 10px;
+    border-radius: 10px;
+    border: 2px solid;
+    width: 400px;
+    height: 50px;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+.tx1{
+    margin-top: -10px;
+}
+.tx2{
+    margin-left: 95px;
+    margin-top: -70px;
+}
+.tx3{
+    margin-left: 175px;
+    margin-top: -35px;
+}
+.tx4{
+    margin-left: 265px;
+    margin-top: -70px;
+}
+
+.datos{
+    margin-top: 100px;
+    border-radius: 30px;
+    border: 2PX solid;
+    padding: 200px;
+    width: 700px;
+    margin-left: 450px;
+    background-color: rgb(76, 159, 165);
+}
